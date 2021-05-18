@@ -1,0 +1,13 @@
+﻿  1zad.cpp
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(54,20): error C3861: setElement: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(54,13): error C3861: insert: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(61,5): error C3861: delet: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(64,13): error C3861: outputList: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(71,5): error C2672: "find": не найдена соответствующая перегруженная функция
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(71,22): error C2780: _InIt std::find(_InIt,const _InIt,const _Ty &): требует аргументов: 3, имеется: 2
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include\xutility(4660): message : см. объявление "std::find"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(75,13): error C3861: setElement: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(75,5): error C3861: addXEnd: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(77,13): error C3861: readFromFile: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(79,12): error C3861: writeToFile: идентификатор не найден
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\1zad\1zad.cpp(239): fatal error C1075: "{": не найдена несоответствующая лексема
