@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\ConsoleApplication1.cpp(29,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\ConsoleApplication1.cpp(93,50): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\ConsoleApplication1.cpp(262): warning C4715: searchKey: значение возвращается не при всех путях выполнения
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\ConsoleApplication1.cpp(333): warning C4715: deleteKey: значение возвращается не при всех путях выполнения
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\ConsoleApplication1.cpp(385): warning C4715: var_13: значение возвращается не при всех путях выполнения
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\ConsoleApplication1.cpp(238): warning C4715: insertList: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\ConsoleApplication1\Debug\ConsoleApplication1.exe
