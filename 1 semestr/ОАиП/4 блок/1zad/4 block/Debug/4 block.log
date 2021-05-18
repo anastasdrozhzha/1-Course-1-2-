@@ -1,0 +1,31 @@
+﻿  4 block.cpp
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(372,47): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(372,47): error C2143: синтаксическая ошибка: отсутствие "," перед "*"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(373,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(373,28): error C2143: синтаксическая ошибка: отсутствие "," перед "*"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(405,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(417,28): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(417,14): error C2789: "N": требуется инициализация объекта типа класса, квалифицированного как const
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(417): message : см. объявление "N"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(420,33): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(425,46): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(425,46): error C2143: синтаксическая ошибка: отсутствие "," перед "*"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(427,6): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(428,7): error C2065: i: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(428,12): error C2065: level: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(430,12): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(433,7): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(434,26): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(434,36): error C2065: level: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(434,43): error C2065: i: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(435,7): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(436,26): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(436,37): error C2065: level: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(436,44): error C2065: i: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(440,27): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(440,27): error C2143: синтаксическая ошибка: отсутствие "," перед "*"
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(442,6): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(443,8): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(443,40): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(444,8): error C2065: tr: необъявленный идентификатор
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\4 блок\4 block\4 block.cpp(444,41): error C2065: tr: необъявленный идентификатор
