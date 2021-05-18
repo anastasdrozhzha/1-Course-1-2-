@@ -1,0 +1,4 @@
+﻿  Block 3.cpp
+C:\Users\Anastasia PC\Desktop\ОАтП\3 блок\Block 3\Block 3.cpp(94,24): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+C:\Users\Anastasia PC\Desktop\ОАтП\3 блок\Block 3\Block 3.cpp(202,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Block 3.vcxproj -> C:\Users\Anastasia PC\Desktop\ОАтП\3 блок\Block 3\Debug\Block 3.exe

@@ -1,0 +1,5 @@
+﻿  proectStack.cpp
+C:\Users\Anastasia PC\Desktop\ОАтП\3 блок\proectStack\proectStack.cpp(12,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  myStack.cpp
+  Создание кода...
+  proectStack.vcxproj -> C:\Users\Anastasia PC\Desktop\ОАтП\3 блок\proectStack\Debug\proectStack.exe
