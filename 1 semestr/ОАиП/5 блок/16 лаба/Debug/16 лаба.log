@@ -1,0 +1,4 @@
+﻿  16 лаба.cpp
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\5 блок\16 лаба\16 лаба.cpp(160,13): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\5 блок\16 лаба\16 лаба.cpp(174,56): warning C4101: clock_t: неиспользованная локальная переменная
+  16 лаба.vcxproj -> C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\5 блок\16 лаба\Debug\16 лаба.exe
