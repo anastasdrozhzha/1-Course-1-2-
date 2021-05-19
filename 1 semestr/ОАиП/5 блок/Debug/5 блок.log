@@ -1,0 +1,6 @@
+﻿  5 блок.cpp
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\5 блок\5 блок\5 блок.cpp(65,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  Heap.cpp
+C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\5 блок\5 блок\Heap.cpp(112,28): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  5 блок.vcxproj -> C:\Users\Anastasia PC\Desktop\С диска\2 семестр\ОАиП\5 блок\5 блок\Debug\5 блок.exe
